@@ -1,0 +1,21 @@
+{
+  "name": "examen-tw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "sequelize": "^6.15.1"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.0.2"
+  },
+  "keywords": [],
+  "description": ""
+}
